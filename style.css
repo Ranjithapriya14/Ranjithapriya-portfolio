@@ -46,20 +46,20 @@ nav a {
   padding: 6px 10px;
   border-radius: 8px;
   transition: all 0.2s;
-  outline: none;            /* remove default focus box */
-  background: transparent;  /* normal background: black page shows through */
+  outline: none;            
+  background: transparent;  
 }
 
 /* Hover: orange background, white text */
 nav a:hover {
-  background: #ffa500;      /* orange */
-  color: #ffffff;           /* white text for contrast */
+  background: #ffa500;      
+  color: #ffffff;           
 }
 
 /* Active (while clicking): black background with orange text */
 nav a:active {
-  background: #000000;      /* black box */
-  color: #ffa500;           /* orange text for contrast */
+  background: #000000;     
+  color: #ffa500;           
 }
 
 .navbar .logo {
