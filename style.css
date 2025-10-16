@@ -158,36 +158,6 @@ nav a:active {
   color: #000;
 }
 
-/* Hero Image */
-.hero-right {
-  flex: 1 1 400px;
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  z-index: 0;
-}
-
-.hero-right img {
-  width: 550px;
-  height: 550px;
-  object-fit: cover;
-  border-radius: 50%;
-  border: 4px solid #ffa500;
-  box-shadow: 0 4px 12px rgba(255, 165, 0, 0.3);
-}
-
-.bg-skew {
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 120%;
-  height: 100%;
-  background: #121212;
-  transform: skewX(-15deg);
-  z-index: -1;
-}
-
 /* About Section */
 .about-section {
   padding: 60px 20px;
