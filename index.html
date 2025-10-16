@@ -30,7 +30,7 @@
         <section class="hero">
             <div class="hero-left">
                 <p class="tagline">Designing digital experience with code</p>
-                <h1>Hi, I am <span>RANJITHA PRIYA</span>
+                <h1>Hi, I am <span>RANJITHA PRIYA G</span>
                 <p>Turning ideas into functional web solutions</p></h1>
             </div>
         </section>
@@ -235,7 +235,7 @@
     <!-- Footer -->
     <footer class="footer">
         <div class="footer-container">
-            <h3>RANJITHA PRIYA</h3>
+            <h3>RANJITHA PRIYA G</h3>
             <p>Crafting frontend experiences with code & creativity ✨</p>
             <div class="social-icons">
                 
@@ -256,7 +256,6 @@
     <script src="https://unpkg.com/scrollreveal"></script>
     <script>
         ScrollReveal().reveal('.hero-left', { origin: 'left', distance: '50px', duration: 1000, delay: 300 });
-        ScrollReveal().reveal('.hero-right', { origin: 'right', distance: '50px', duration: 1000, delay: 500 });
         ScrollReveal().reveal('.navbar', { origin: 'top', distance: '20px', duration: 800, delay: 200 });
         ScrollReveal().reveal('.about-img', { origin: 'left', distance: '50px', duration: 1000, delay: 200 });
         ScrollReveal().reveal('.about-content', { origin: 'right', distance: '50px', duration: 1000, delay: 300 });
@@ -265,9 +264,8 @@
             const name = document.getElementById("name").value.trim();
             const email = document.getElementById("email").value.trim();
             const message = document.getElementById("message").value.trim();
-
             const text = `Name: ${name}%0AEmail: ${email}%0AMessage: ${message}`;
-            const phone = "916383921755"; // ← Replace with your number
+            const phone = "916383921755";
             const link = `https://wa.me/${phone}?text=${text}`;
 
             window.open(link, "_blank");
@@ -276,10 +274,7 @@
         function handleFormSubmit(event) {
             event.preventDefault();
             const form = event.target;
-
-            // Replace this with your FormSubmit endpoint
             const formAction = "https://formsubmit.co/ranjithapriya1408@gmail.com";
-
             const formData = new FormData(form);
             fetch(formAction, {
                 method: "POST",
