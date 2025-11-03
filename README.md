@@ -70,9 +70,7 @@ It highlights my journey in software development, including front-end and back-e
 
 | Home                                 | About                                 | Skills                                 |
 | ------------------------------------ | ------------------------------------- | -------------------------------------- |
-| ![Home]<img width="1920" height="1080" alt="Screenshot (394)" src="https://github.com/user-attachments/assets/547f2218-0c2f-492c-8c4b-870455140d74" />
- | ![About]<img width="1920" height="1080" alt="Screenshot (395)" src="https://github.com/user-attachments/assets/e2a1ca38-db17-46d5-a035-b5b6352bbfa6" />
- | ![Skills]<img width="1920" height="1080" alt="Screenshot (396)" src="https://github.com/user-attachments/assets/c17ca387-9c21-4d1a-86df-8e314169572b" />
+| ![Home]<img width="1920" height="1080" alt="Screenshot (394)" src="https://github.com/user-attachments/assets/547f2218-0c2f-492c-8c4b-870455140d74" /> | ![About]<img width="1920" height="1080" alt="Screenshot (395)" src="https://github.com/user-attachments/assets/e2a1ca38-db17-46d5-a035-b5b6352bbfa6" /> | ![Skills]<img width="1920" height="1080" alt="Screenshot (396)" src="https://github.com/user-attachments/assets/c17ca387-9c21-4d1a-86df-8e314169572b" />
 |
 
 | Certifications                                 | Projects                                 | Contact                                 |
