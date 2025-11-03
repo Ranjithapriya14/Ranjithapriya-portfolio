@@ -75,9 +75,7 @@ It highlights my journey in software development, including front-end and back-e
 
 | Certifications                                 | Projects                                 | Contact                                 |
 | ---------------------------------------------- | ---------------------------------------- | --------------------------------------- |
-| ![Certifications]<img width="1920" height="1080" alt="Screenshot (397)" src="https://github.com/user-attachments/assets/c0aab270-9e7b-4748-8611-e750ffee4223" />
- | ![Projects]<img width="1920" height="1080" alt="Screenshot (398)" src="https://github.com/user-attachments/assets/92efda78-22bb-4137-b94c-58ba15f5ec31" /> <img width="1920" height="1080" alt="Screenshot (399)" src="https://github.com/user-attachments/assets/f70006a0-2ef8-40ca-bcfb-931c9659b6d1" /> <img width="1920" height="1080" alt="Screenshot (400)" src="https://github.com/user-attachments/assets/badb5d55-1797-4c16-8884-d6768cfa1f83" />
- | ![Contact] <img width="1920" height="1080" alt="Screenshot (401)" src="https://github.com/user-attachments/assets/42869df9-1f5e-4706-8dd1-2e68fc422968" />
+| ![Certifications]<img width="1920" height="1080" alt="Screenshot (397)" src="https://github.com/user-attachments/assets/c0aab270-9e7b-4748-8611-e750ffee4223" />| ![Projects]<img width="1920" height="1080" alt="Screenshot (398)" src="https://github.com/user-attachments/assets/92efda78-22bb-4137-b94c-58ba15f5ec31" /> <img width="1920" height="1080" alt="Screenshot (399)" src="https://github.com/user-attachments/assets/f70006a0-2ef8-40ca-bcfb-931c9659b6d1" /> <img width="1920" height="1080" alt="Screenshot (400)" src="https://github.com/user-attachments/assets/badb5d55-1797-4c16-8884-d6768cfa1f83" />| ![Contact] <img width="1920" height="1080" alt="Screenshot (401)" src="https://github.com/user-attachments/assets/42869df9-1f5e-4706-8dd1-2e68fc422968" />
 |
 
 ---
