@@ -70,11 +70,17 @@ It highlights my journey in software development, including front-end and back-e
 
 | Home                                 | About                                 | Skills                                 |
 | ------------------------------------ | ------------------------------------- | -------------------------------------- |
-| ![Home](screenshots/screenshot(394).png) | ![About](screenshots/screenshot(395).png) | ![Skills](screenshots/screenshot(396).png) |
+| ![Home]<img width="1920" height="1080" alt="Screenshot (394)" src="https://github.com/user-attachments/assets/547f2218-0c2f-492c-8c4b-870455140d74" />
+ | ![About]<img width="1920" height="1080" alt="Screenshot (395)" src="https://github.com/user-attachments/assets/e2a1ca38-db17-46d5-a035-b5b6352bbfa6" />
+ | ![Skills]<img width="1920" height="1080" alt="Screenshot (396)" src="https://github.com/user-attachments/assets/c17ca387-9c21-4d1a-86df-8e314169572b" />
+|
 
 | Certifications                                 | Projects                                 | Contact                                 |
 | ---------------------------------------------- | ---------------------------------------- | --------------------------------------- |
-| ![Certifications](screenshots/screenshot(397).png) | ![Projects](screenshots/screenshot(398).png) | ![Contact](screenshots/screenshot(399).png) |
+| ![Certifications]<img width="1920" height="1080" alt="Screenshot (397)" src="https://github.com/user-attachments/assets/c0aab270-9e7b-4748-8611-e750ffee4223" />
+ | ![Projects]<img width="1920" height="1080" alt="Screenshot (398)" src="https://github.com/user-attachments/assets/92efda78-22bb-4137-b94c-58ba15f5ec31" /> <img width="1920" height="1080" alt="Screenshot (399)" src="https://github.com/user-attachments/assets/f70006a0-2ef8-40ca-bcfb-931c9659b6d1" /> <img width="1920" height="1080" alt="Screenshot (400)" src="https://github.com/user-attachments/assets/badb5d55-1797-4c16-8884-d6768cfa1f83" />
+ | ![Contact] <img width="1920" height="1080" alt="Screenshot (401)" src="https://github.com/user-attachments/assets/42869df9-1f5e-4706-8dd1-2e68fc422968" />
+|
 
 ---
 
